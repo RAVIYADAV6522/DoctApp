@@ -117,7 +117,7 @@ export const doctors=[
   },
   {
     _id:'doc2',
-    name:'Dr. Sarah Patel',
+    name:'Dr. James Bell',
     image:doc2,
     speciality:'Dermatologist',
     degree:'MBBS',
@@ -131,7 +131,7 @@ export const doctors=[
   },
   {
     _id:'doc3',
-    name:'Dr. Rich Jam',
+    name:'Dr. Micheal Bond',
     image:doc3,
     speciality:'Neurologist',
     degree:'MBBS',
@@ -145,7 +145,7 @@ export const doctors=[
   },
   {
     _id:'doc4',
-    name:'Dr. Richar Jamesy',
+    name:'Dr. Harvey Jack',
     image:doc4,
     speciality:'Neurologist',
     degree:'MBBS',
@@ -159,7 +159,7 @@ export const doctors=[
   },
   {
     _id:'doc5',
-    name:'Dr. Ric James',
+    name:'Dr. Tony Cook',
     image:doc5,
     speciality:'Gastroenterologist',
     degree:'MBBS',
@@ -175,7 +175,7 @@ export const doctors=[
   },
   {
     _id:'doc6',
-    name:'Dr. Richard James yadav',
+    name:'Dr. Helena Brad',
     image:doc6,
     speciality:'General physician',
     degree:'MBBS',
@@ -189,7 +189,7 @@ export const doctors=[
   },
   {
     _id:'doc7',
-    name:'Dr. James',
+    name:'Dr. James Shardy',
     image:doc7,
     speciality:'Gastroenterologist',
     degree:'MBBS',
@@ -203,7 +203,7 @@ export const doctors=[
   },
   {
     _id:'doc8',
-    name:'Dr. Richard sharma',
+    name:'Dr. Steve Warn',
     image:doc8,
     speciality:'Neurologist',
     degree:'MBBS',
@@ -217,7 +217,7 @@ export const doctors=[
   },
   {
     _id:'doc9',
-    name:'Dr. Richard James',
+    name:'Dr. Roston Mark',
     image:doc9,
     speciality:'Pediatricians',
     degree:'MBBS',
@@ -231,9 +231,9 @@ export const doctors=[
   },
   {
     _id:'doc10',
-    name:'Dr. Richard James',
+    name:'Dr. Vijay Sharma',
     image:doc10,
-    speciality:'General physician',
+    speciality:'Dermatologist',
     degree:'MBBS',
     experiance:'4 Years',
     about:'Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies. Dr. Davis has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
@@ -245,7 +245,7 @@ export const doctors=[
   },
   {
     _id:'doc11',
-    name:'Dr. Richard James',
+    name:'Dr. Sarah Patel',
     image:doc11,
     speciality:'Pediatricians',
     degree:'MBBS',
@@ -259,7 +259,7 @@ export const doctors=[
   },
   {
     _id:'doc12',
-    name:'Dr. Richard James',
+    name:'Dr. Mark Smith',
     image:doc12,
     speciality:'Gynecologist',
     degree:'MBBS',
@@ -273,7 +273,7 @@ export const doctors=[
   },
   {
     _id:'doc13',
-    name:'Dr. Richard James',
+    name:'Dr. Priya Satyamurthy',
     image:doc13,
     speciality:'Gynecologist',
     degree:'MBBS',
@@ -287,7 +287,7 @@ export const doctors=[
   },
   {
     _id:'doc14',
-    name:'Dr. Richard James',
+    name:'Dr. Don Bradman',
     image:doc14,
     speciality:'Pediatricians',
     degree:'MBBS',
@@ -301,7 +301,7 @@ export const doctors=[
   },
   {
     _id:'doc15',
-    name:'Dr. Richard James',
+    name:'Dr. Tom Moody',
     image:doc15,
     speciality:'Gynecologist',
     degree:'MBBS',
