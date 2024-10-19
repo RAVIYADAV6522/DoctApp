@@ -4,6 +4,8 @@ import mylogo from './profile_image1.png'
 import dropdown_image from './dropdown_image.png'
 import group_profile from './group_profiles.png'
 import arrow_icon from './arrow_image.png'
+import cross_icon from './cross_icon.png'
+import menu_icon from './menu_icon.png'
 import verified_icon from './verified_icon.png'
 import info_icon from './info_icon.png'
 import about_image from './about_image.png' 
@@ -31,6 +33,7 @@ import Dermatologist from './Dermatologist.png'
 import Pediatricians from './Pediatricians.png'
 import Neurologist from './Neurologist.png'
 import Gastroenterologist from './Gastroenterologist.png'
+import { Form } from 'react-router-dom'
 
 
 
@@ -42,6 +45,8 @@ export const assets= {
   mylogo,
   dropdown_image,
   arrow_icon,
+  cross_icon,
+  menu_icon,
   info_icon,
   verified_icon,
   group_profile,
