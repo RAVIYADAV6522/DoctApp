@@ -23,10 +23,10 @@ export default function Contact() {
               00000 Willms Station Suite 000, Washington, USA
             </p>
             <p className="text-gray-600 font-light">
-              Tel: (000) 000-0000 Email: greatstackdev@gmail.com
+              Tel: (000) 000-0000 Email: yadavr74839@gmail.com
             </p>
             <p className="text-2xl text-gray-600 font-semibold">
-              CAREERS AT PRESCRIPTO
+              CAREERS AT DoctApp
             </p>
             <p className="text-gray-600 font-light">
               Learn more about our teams and job openings.
