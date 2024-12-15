@@ -1,7 +1,12 @@
 import React from "react";
 import { assets } from "../assets/assets";
+import { toast } from "react-toastify";
 
 export default function Contact() {
+
+  const toastify =()=>{
+    toast("Explore Jobs")
+  }
   return (
     <div>
       <div className="flex flex-col items-center mt-10 pl-10">
@@ -31,7 +36,7 @@ export default function Contact() {
             <p className="text-gray-600 font-light">
               Learn more about our teams and job openings.
             </p>
-            <button className="border border-black px-8 py-3 w-1/2 hover:bg-black hover:text-white transition-all duration-700">
+            <button onClick={toastify} className="border border-black px-8 py-3 w-1/2 hover:bg-black hover:text-white transition-all duration-700">
               Explore Jobs
             </button>
           </div>
