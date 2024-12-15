@@ -1,7 +1,16 @@
 import React from "react";
 import { doctors } from "../assets/assets";
+import { toast } from "react-toastify";
 
 export default function MyAppointments() {
+
+  const pay =()=>{
+    toast("Payment Done")
+  }
+  const cancel =()=>{
+    toast("Appointment cancelled")
+  }
+
   return (
     <div>
       <p className="pb-3 mt-12 font-medium text-zinc-700 border-b text-2xl">
@@ -28,10 +37,10 @@ export default function MyAppointments() {
             </div>
             <div></div>
             <div className="flex flex-col justify-end gap-2">
-              <button className="sm:min-w-48 border rounded py-2 w-32 mt-2 text-sm text-stone-500 hover:bg-primary hover:text-white transition-all duration-300">
+              <button onClick={pay} className="sm:min-w-48 border rounded py-2 w-32 mt-2 text-sm text-stone-500 hover:bg-primary hover:text-white transition-all duration-300">
                 Pay Online
               </button>
-              <button className="sm:min-w-48 border rounded py-2 w-40 mt-2 text-sm text-stone-500 hover:bg-red-600 hover:text-white transition-all duration-300">
+              <button onClick={cancel} className="sm:min-w-48 border rounded py-2 w-40 mt-2 text-sm text-stone-500 hover:bg-red-600 hover:text-white transition-all duration-300">
                 Cancel Appointment
               </button>
             </div>
