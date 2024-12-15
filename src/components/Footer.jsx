@@ -38,7 +38,7 @@ export default function Footer() {
 
       <div className="flex flex-col text-center">
         <hr />
-        <p>Copyright 2024 @ Greatstack.dev - All Right Reserved.</p>
+        <p>Copyright 2024 @RAVI YADAV - All Right Reserved.</p>
       </div>
     </div>
   );
